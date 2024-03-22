@@ -79,7 +79,7 @@ In this project, we aim to predict the sale prices of houses based on various fe
 4. **Regularization and Error Analysis**: RMSE after regularization and error analysis is approximately 32793.12.
 5. **Cross-Validation and Model Evaluation**: The average RMSE score through cross-validation is approximately 30098.55.
 6. **Model Interpretability and Insights**: obtained insights with a score of 32668.
-7. **Predictive Model for House Prices**: The Mean Squared Error (MSE) for your predictive model for house prices is approximately 1227594020.31.
+7. **Predictive Model for House Prices**: The Mean Squared Error (MSE) predictive model for house prices is approximately 1227594020.31.
 
 
 
