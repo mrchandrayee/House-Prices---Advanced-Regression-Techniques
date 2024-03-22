@@ -59,7 +59,7 @@ In this project, we aim to predict the sale prices of houses based on various fe
 To run the code locally or reproduce the results, follow these steps:
 
 1. Clone this repository.
-2. Install the required dependencies specified in `requirements.txt`.
+2. git clone https://github.com/mrchandrayee/House-Prices-Prediction.git
 3. Run the Jupyter notebooks or Python scripts for data preprocessing, feature engineering, model training, and prediction.
 
 ## Author
