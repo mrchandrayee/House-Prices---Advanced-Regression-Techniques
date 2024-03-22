@@ -75,10 +75,10 @@ In this project, we aim to predict the sale prices of houses based on various fe
    - `min_samples_split`: 2  
    - `n_estimators`: 200  
    The best RMSE score on the validation set is approximately 30175.82, and the RMSE on the test set is approximately 35127.22.
-3. **Hyperparameter Optimization**: You've achieved an RMSE of approximately 32040.49 through hyperparameter optimization.
+3. **Hyperparameter Optimization**: achieved an RMSE of approximately 32040.49 through hyperparameter optimization.
 4. **Regularization and Error Analysis**: RMSE after regularization and error analysis is approximately 32793.12.
 5. **Cross-Validation and Model Evaluation**: The average RMSE score through cross-validation is approximately 30098.55.
-6. **Model Interpretability and Insights**: You've obtained insights with a score of 32668.
+6. **Model Interpretability and Insights**: obtained insights with a score of 32668.
 7. **Predictive Model for House Prices**: The Mean Squared Error (MSE) for your predictive model for house prices is approximately 1227594020.31.
 
 
