@@ -52,7 +52,7 @@ In this project, we aim to predict the sale prices of houses based on various fe
 
 ## Results
 
-- Achieved an RMSE of [2586/4474*] on the Kaggle leaderboard.
+- Achieved an RMSE of [2586/4479*] on the Kaggle leaderboard.
 
 ## Getting Started
 
