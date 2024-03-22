@@ -51,8 +51,37 @@ In this project, we aim to predict the sale prices of houses based on various fe
 - Prepared the submission file with the predicted sale prices for the test dataset.
 
 ## Results
+1. **Comprehensive Data Exploration and Preprocessing**: Understanding the data and preparing it appropriately is crucial for model performance.
 
-- Achieved an RMSE of [2586/4479*] on the Kaggle leaderboard.
+2. **Advanced Feature Engineering**: Creating informative features and selecting the most relevant ones can greatly enhance model predictive power.
+
+3. **Ensemble Modeling**: Leveraging the strengths of multiple models through ensemble techniques helps capture diverse patterns in the data.
+
+4. **Hyperparameter Optimization**: Tuning model parameters optimally improves model performance and generalizability.
+
+5. **Regularization and Error Analysis**: Applying regularization techniques and conducting thorough error analysis mitigate overfitting and refine model accuracy.
+
+6. **Cross-Validation and Model Evaluation**: Robust evaluation through cross-validation ensures reliable model performance estimation.
+
+7. **Model Interpretability and Insights**: Interpretable models and insights provide actionable information for stakeholders.
+
+
+
+1. **Feature Engineering**: You've achieved a model score of approximately 0.888.
+2. **Ensemble Modeling**: The best hyperparameters found for the ensemble model are:  
+   - `max_depth`: 30  
+   - `max_features`: 'sqrt'  
+   - `min_samples_leaf`: 1  
+   - `min_samples_split`: 2  
+   - `n_estimators`: 200  
+   The best RMSE score on the validation set is approximately 30175.82, and the RMSE on the test set is approximately 35127.22.
+3. **Hyperparameter Optimization**: You've achieved an RMSE of approximately 32040.49 through hyperparameter optimization.
+4. **Regularization and Error Analysis**: RMSE after regularization and error analysis is approximately 32793.12.
+5. **Cross-Validation and Model Evaluation**: The average RMSE score through cross-validation is approximately 30098.55.
+6. **Model Interpretability and Insights**: You've obtained insights with a score of 32668.
+7. **Predictive Model for House Prices**: The Mean Squared Error (MSE) for your predictive model for house prices is approximately 1227594020.31.
+
+
 
 ## Getting Started
 
